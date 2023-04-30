@@ -16,7 +16,7 @@ public class MediaPonderada {
 		Nota2 = input.nextFloat();
 		
 		
-		MediaPonderada =  ((Nota1*6)+(Nota2*4)) /2;
+		MediaPonderada =  ((Nota1*6) + (Nota2*4)) /2;
 		
 		System.out.println(MediaPonderada);
 
