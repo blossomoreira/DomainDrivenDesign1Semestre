@@ -14,7 +14,7 @@ public class exer {
 */
 
         //WHILE
-        //no while colocaso só a condição igual no python
+        //no while colocamos só a condição igual no python
         while(cont<3){
             cont++;
             System.out.println(cont);
