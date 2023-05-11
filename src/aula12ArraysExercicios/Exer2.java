@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Exer2 {
 	
-
 	public int TamanhoDoVetor() {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("*--* CRIANDO O VETOR *--*");
@@ -22,7 +21,6 @@ public class Exer2 {
 		Scanner scan = new Scanner(System.in);
 		for (int i=0; i<vetor.length; i++) {
 			vetor[i] = scan.nextInt();
-			
 		}
 		return vetor;
 		
